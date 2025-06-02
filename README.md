@@ -23,17 +23,11 @@ Here are some ideas to get you started:
 
 <a href="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true"/></a>
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-  <img
-    align=center
-    src="https://img.shields.io/github/stars/Magic-Pony?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
-    style="margin: 0 5px"
-  /><img
-    align=center
-    src="https://img.shields.io/github/followers/Magic-Pony?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
-    style="margin: 0 5px"
-  />
-</div>
+<img
+  align=center
+  src="https://img.shields.io/github/stars/Magic-Pony?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+  style="margin: 0 5px"
+/>
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
