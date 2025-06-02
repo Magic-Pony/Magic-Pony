@@ -1,6 +1,6 @@
-## Hi there 👋 I'm a magic pony
+## Hi there 👋 I'm a magic pony looking for my cutie mark
 
-- 🔭 I’m currently interested in robotics, especially mobile manipulation tasks.
+- 🔭 I’m interested in robotics, especially mobile manipulation tasks.
 - 🌱 I’m currently working on RL, VLA and WBC.
 - 👯 I'm looking for a job in the field of embodied intelligence.
 - ⚡ Fun fact: I enjoy fitness, bouldering, poem and britpop.
