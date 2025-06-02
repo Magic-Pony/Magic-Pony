@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Magic-Pony/Magic-Pony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,20 +12,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<a href="https://www.xiaohongshu.com/user/profile/637502c10000000023028519?m_source=pwa" target="_blank"><img  align=center src="https://img.shields.io/badge/rednote-小红书-%231677ff?style=flat"/></a>
+<p align="center">
+  <!-- Social Media Links -->
+  <a href="https://www.xiaohongshu.com/user/profile/637502c10000000023028519?m_source=pwa" target="_blank">
+    <img src="https://img.shields.io/badge/rednote-小红书-%231677ff?style=flat" alt="小红书"/>
+  </a>
+  <a href="https://space.bilibili.com/85748556?spm_id_from=333.1007.0.0" target="_blank">
+    <img src="https://img.shields.io/badge/bilibili-B站-%231677ff?style=flat" alt="B站"/>
+  </a>
+  <a href="https://www.zhihu.com/people/liu-chen-yang-48-73" target="_blank">
+    <img src="https://img.shields.io/badge/zhihu-知乎-%231677ff?style=flat" alt="知乎"/>
+  </a>
+</p>
 
-<a href="https://space.bilibili.com/85748556?spm_id_from=333.1007.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-B站-%231677ff?style=flat"/></a>
+<p align="center">
+  <!-- GitHub Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" alt="Profile Views"/>
+  </a>
+</p>
 
-<a href="https://www.zhihu.com/people/liu-chen-yang-48-73" target="_blank"><img  align=center src="https://img.shields.io/badge/zhihu-知乎-%231677ff?style=flat"/></a>
-
-<a href="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true"/></a>
-
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=Magic-Pony&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>
-
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-Pony&locale=cn&line_height=33&theme=&langs_count=5&layout=donut"/>
-
-
-
-
+<p align="center">
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Magic-Pony&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-Pony&locale=cn&line_height=33&theme=&langs_count=5&layout=donut" alt="Top Languages"/>
+</p>
