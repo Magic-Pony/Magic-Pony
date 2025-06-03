@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://blog.csdn.net/qq_51289776?type=blog" target="_blank">
-    <img  align=center src="https://img.shields.io/badge/CSDN-CSDN-%231677ff?style=flat"/>
+    <img src="https://img.shields.io/badge/CSDN-CSDN-%231677ff?style=flat"/>
   </a>
   
   <a href="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" target="_blank">
