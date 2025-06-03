@@ -18,6 +18,10 @@
   <a href="https://www.zhihu.com/people/liu-chen-yang-48-73" target="_blank">
     <img src="https://img.shields.io/badge/zhihu-知乎-%231677ff?style=flat" alt="知乎"/>
   </a>
+
+  <a href="https://blog.csdn.net/qq_51289776?type=blog" target="_blank">
+    <img  align=center src="https://img.shields.io/badge/CSDN-CSDN-%231677ff?style=flat"/>
+  </a>
   
   <a href="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Magic-Pony&abbreviated=true" alt="Profile Views"/>
